@@ -1,4 +1,4 @@
-# Super-store-sales-deshboard
+# Superstore-sales-deshboard
 
 Sales by Customer Segment:
 
